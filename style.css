@@ -1,0 +1,18 @@
+.data1{
+    border-color: brown;
+    border: 5px;
+
+
+}
+
+.tbody{
+    border: 3px solid blue;
+    padding: 10px;
+    background-color:aqua;
+}
+.formstyle{
+    border: 5px;
+}
+.stg{
+    border: 2px;
+}
